@@ -52,11 +52,11 @@ All content is created strictly for **educational and ethical purposes**.
 ---
 ## 🛠️ Tools & Technologies
 
-SIEM: Splunk, ELK/Elastic, Wazuh
-Network: Wireshark, Zeek
-Logs: Sysmon, Event Viewer, audit logs
-Scripts: Python, Bash, PowerShell
-Other: Sigma rules, MITRE ATT&CK mapping
+- SIEM: Splunk, ELK/Elastic, Wazuh
+- Network: Wireshark, Zeek
+- Logs: Sysmon, Event Viewer, audit logs
+- Scripts: Python, Bash, PowerShell
+- Other: Sigma rules, MITRE ATT&CK mapping
 
 
 ---
