@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="assets/blue-banner.png" alt="Blue Team Banner" width="900" />
+</p>
+
+
+
 <h1 align="center">🔵 Blue Team</h1>
 
 <p align="center">
