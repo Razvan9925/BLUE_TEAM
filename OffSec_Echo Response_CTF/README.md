@@ -55,7 +55,7 @@ All challenges include documented steps, findings, and Indicators of Compromise 
 
 ## 📝 Repository Structure 
 ```text
-echo-response-offsec-challenge/
+OffSec_Echo Response_CTF/
 ├── WEEK 0 - Tutorial Challenge/
 ├── WEEK 1 - ProtoVault Breach/
 ├── WEEK 2 - Stealer's Shadow/
