@@ -36,7 +36,7 @@ Each week has its own directory containing:
 - **INVESTIGATION_REPORT.md** – Full investigation and answers  
 - **Scripts/Artifacts** – Tools, logs, or code used for analysis  
 
-Completed Weeks: **0 → 7**  
+Completed Weeks: **0 → 8**  
 All challenges include documented steps, findings, and Indicators of Compromise (IOCs).
 
 ---
@@ -64,3 +64,4 @@ OffSec_Echo Response_CTF/
 ├── WEEK 5 - Emerald Anomaly/
 ├── WEEK 6 - Nullform Vault/
 └── WEEK 7 - Codex Circuit/
+└── WEEK 8 - Last Ascent/
