@@ -39,17 +39,7 @@ The goal of this repo is to:
 
 All content is created strictly for **educational and ethical purposes**.
 
----
 
-## 📂 Structure
-
-/siem-labs/ → SIEM logs, detections, queries
-/threat-hunting/ → hypotheses, hunts, findings
-/log-analysis/ → exercises and event breakdowns
-/incident-response/ → incident notes & investigation steps
-/blue-ctfs/ → Blue Team CTF write-ups
-
----
 ## 🛠️ Tools & Technologies
 
 - SIEM: Splunk, ELK/Elastic, Wazuh
