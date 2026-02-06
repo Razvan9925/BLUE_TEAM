@@ -70,15 +70,6 @@ All **10 challenge objectives** were successfully completed.
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── README.md
-├── INVESTIGATION_REPORT.md
-├── analyze_logs.py
-└── evidence/
-```
 
 ---
 
@@ -87,6 +78,3 @@ All **10 challenge objectives** were successfully completed.
 This challenge demonstrates a full end-to-end security incident, from initial access to data exfiltration, highlighting the importance of cloud security monitoring and incident response.
 
 ---
-
-**Author:** MR. Umair  
-**Completed:** October 2025
