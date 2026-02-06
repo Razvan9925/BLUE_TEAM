@@ -160,6 +160,3 @@ The investigation package (`echo_trail.zip`, password: `EchoTrail123`) includes:
 - Technical reporting  
 
 ---
-
-**Author:** MR. Umair  
-**Completed:** October 2025
