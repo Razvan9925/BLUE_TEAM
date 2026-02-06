@@ -62,7 +62,7 @@ Malicious backdoor embedded within the MCP PowerShell Exec server, specifically 
 # Trigger Conditions (Lines 425–436)
 require_nHeight = lambda s: "pass" in s.lower()        # Trigger 1
 require_dwStyle = lambda s: "securestring" in s.lower()  # Trigger 2
-
+```
 ### Question 3: Credential Validation Method
 **Task:** After exfiltrating the data from the previous exercise, the attacker checked whether the stolen information was valid. Briefly explain how this validation was performed and include specific technical details such as protocols and IP addresses.
 
@@ -91,7 +91,6 @@ The attacker validated stolen credentials by authenticating to the internal mail
 
 ---
 
-### Question 4: Attacker IP Addresses
 ### Question 4: Attacker IP Addresses
 **Task:** List at least two IP addresses used in the attack that can be attributed to the attacker and briefly describe their roles or purposes.
 
